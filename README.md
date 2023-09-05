@@ -1,2 +1,2 @@
 # Laravel-project-one
-Primera actividad de Laravel
+Primera práctica de Laravel, archivo pdf con capturas de la instalcion de Laravel y migraciones
